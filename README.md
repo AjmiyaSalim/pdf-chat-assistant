@@ -56,9 +56,15 @@ venv\Scripts\activate           # Windows
 pip install -r requirements.txt
 ```
 
-🔑 Add Your API Key: Open app.py and set your Groq API key.
+### 🔑 Add Your API Key: Open app.py and set your Groq API key.
 
-▶️ Run the App
+### ▶️ Run the App
 ```bash
 streamlit run app.py
 ```
+
+
+# Streamlit Interface
+
+<img width="1919" height="891" alt="AI note assistant" src="https://github.com/user-attachments/assets/002f1b81-9f18-46a1-950a-54805482132e" />
+
